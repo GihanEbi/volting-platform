@@ -1,0 +1,7 @@
+{
+  "name": "VoteChain - Decentralized Governance DApp",
+  "description": "A high-fidelity Web3 governance platform for transparent voting, identity management, and automated reward distribution.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
